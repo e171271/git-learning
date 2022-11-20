@@ -6,7 +6,7 @@ import { Link, use } from "react-router-dom";
 const UsersTable = () => {
     const users = [
         {
-            firstName: 'Esti',
+            firstName: 'Shoshana',
             lastName: 'Abovich',
             dateHissun: '01/01/2020',
             adress: 'aaa 112 Bney-Brack'
